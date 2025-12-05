@@ -73,6 +73,8 @@ npm run build
 2. 输入你的 **API Key** 和 **API Endpoint**
 3. 点击 **Save Changes** 保存
 
+**本地API推荐参考：https://github.com/TheSmallHanCat/sora2api
+   
 > 💡 本工具兼容 OpenAI Sora API 格式的服务
 
 ### 2. 创建任务
