@@ -28,6 +28,7 @@
 ## 📸 界面预览
 
 > 应用采用现代暗色主题设计，操作简洁直观
+<img width="2535" height="992" alt="PixPin_2025-12-05_10-34-33" src="https://github.com/user-attachments/assets/7cc406d4-7dfd-4983-970d-b00ca80b6e90" />
 
 ## 🚀 快速开始
 
@@ -131,7 +132,7 @@ SORA2 Video is a modern AI video batch generation tool that supports OpenAI Sora
 ### Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sora2-video.git
+git clone https://github.com/annewj023/sora2-video.git
 cd sora2-video
 npm install
 npm run dev
